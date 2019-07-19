@@ -1,4 +1,4 @@
-# client
+# pusher-chat-sentiment-analysis
 
 ## Project setup
 ```
